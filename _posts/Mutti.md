@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mutti är bästa tomatsåsen
+title: Mutti 
 ---
 
 Här är muttis fina sås
