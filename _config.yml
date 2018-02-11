@@ -16,8 +16,7 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 
 prose:
     # Configurations ...
-
-media: "images/"
+    media: "images/"
 
 # Includes an icon in the footer for each username you enter
 footer-links:
