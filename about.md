@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+This is my webpage 
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I'm Erik, a student and hard working peasant in the once big and glorious kingdom but now small and deteriorating citystate of Sweden
+
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[jaomi@haxx.info](mailto:jaomi@haxx.info)
