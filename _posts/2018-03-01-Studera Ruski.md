@@ -27,6 +27,7 @@ A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
 
 А Б С Д Е Ф Г Х И Й К Л М Н О П Я Р С Т У В Ж
 
+> А Б С Д Е Ф Г Х И Й К Л М Н О П Я Р С Т У В Ж
 
 [https://en.wikipedia.org/wiki/Russian_alphabet](https://en.wikipedia.org/wiki/Russian_alphabet)
 
