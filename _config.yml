@@ -18,6 +18,8 @@ prose:
     # Configurations ...
     media: "images/"
 
+remote_theme: https://github.com/tocttou/hacker-blog
+
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
