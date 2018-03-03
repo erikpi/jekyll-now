@@ -7,7 +7,7 @@ published: true
 😈😈 Övningar att göra  😈😈
 
 
-http://slav.su.se/slavinstforum/viewtopic.php?f=2&t=3305
+[http://slav.su.se/slavinstforum/viewtopic.php?f=2&t=3305]
 
 
 ## Inför nästa lektion mån 5/3: Урок 2
