@@ -22,4 +22,5 @@ http://wordalist.com/exercise/67/section/178
 Extra övningar i grammatisk analys av ryska meningar (för den som vill):
 https://wordalist.com/exercise/1093
 
-![]({{site.baseurl}}/images//ryska3.jpg)
+
+![]({{site.baseurl}}/images//Students-in-Russia.jpg)
