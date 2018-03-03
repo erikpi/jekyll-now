@@ -14,14 +14,11 @@ avatar: http://www.buttons-und-pins.de/bilder/produkte/gross/Button-I-love-Mutti
 # Flags below are optional
 #
 
-plugins:
-  - jekyll-remote-theme
-
 prose:
     # Configurations ...
     media: "images/"
 
-remote_theme: tocttou/hacker-blog
+
 
 # Includes an icon in the footer for each username you enter
 footer-links:
@@ -84,7 +81,10 @@ sass:
 gems:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-
+  - jekyll-remote-theme
+  
+remote_theme: tocttou/hacker-blog  
+  
 # Exclude these files from your production _site
 exclude:
   - Gemfile
